@@ -6,6 +6,6 @@
  
  ### Используется:
  - Python
- - json,csv,requests
+ - json, csv, requests
  - beautifulsoup4
  
